@@ -1,6 +1,6 @@
 ### Olá, eu sou o Rodolfo Arnaut
 
-- Atualmente estudando análise de dados com Python
+- Atualmente estudando análise de dados com Python, e linguagens back end, como C, C# e PHP
 - Experiência em projetos de desenvolvimento web com PHP e Javascript. 
 - Cursando análise e desenvolvimento de sistemas
 
