@@ -1,12 +1,12 @@
-### Olá, eu sou o Rodolfo Arnaut
+# 👋 Olá, eu sou o Rodolfo Arnaut
 
-- Atualmente estudando análise de dados com Python, e linguagens back end, como C, C# e PHP
-- Experiência em projetos de desenvolvimento web com PHP e Javascript. 
-- Cursando análise e desenvolvimento de sistemas
+<p align="center">
+  <a href="https://www.linkedin.com/in/rodolfo-arnaut-2325561ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rodolfoarnaut@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/></a>
+</p>
 
+---
 
-![Rodolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodolfoArnaut&show_icons=true&theme=dark&langs_count=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoArnaut&layout=default&theme=dark)](https://github.com/\\\RodolfoArnaut/github-readme-stats)
+### 🚀 Sobre mim
 
-<img align="center" alt="Rods-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+Profissional especializado em automação, análise de dados e desenvolvimento de soluções inovadoras como chatbots, dashboards e sistemas CRM. Minha expertise inclui modelagem de dados, programação Python e integração de sistemas. Atualmente, estudo ferramentas de extralção, leitura e transformação de dados (ETL/ELT) e busco maximizar eficiência operacional e satisfação do cliente.
